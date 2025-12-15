@@ -85,7 +85,7 @@ BÀI 3: CẢI TIẾN TỐC ĐỘ VỚI CẮT TỈA ALPHA-BETA
    4. Demo kết quả
 <img width="561" height="306" alt="image" src="https://github.com/user-attachments/assets/dfbf6f97-a6aa-4ad1-85c0-ab533892e0cb" />
 
-### 2. THUẬT TOÁN K-MEAN,KNN
+### 3. THUẬT TOÁN K-MEAN,KNN
 Vị trí code: Thư mục `Buoi05.ipynb`
 
 BÀI 1: PHÂN CỤM DỮ LIỆU TỰ ĐỘNG VỚI K-MEAN
